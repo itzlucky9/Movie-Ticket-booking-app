@@ -1,16 +1,25 @@
-# movie_ticket_booking_app
+# Movie Ticket Booking App 🎬
 
-A new Flutter project.
+A Flutter-based Movie Ticket Booking application with a modern and responsive user interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Browse available movies
+* View movie details
+* Select show dates and timings
+* Interactive seat selection system
+* Reserved seat support
+* View selected seats and total ticket price
+* Modern UI with custom design
 
-A few resources to get you started if this is your first Flutter project:
+# 📸 Screenshots
+| Home Screen | Detail Screen | Seat Available | seat Book |
+|---|---|---|---|
+| <img src="https://github.com/user-attachments/assets/c5f66df2-5cda-4ff5-8f67-54987ffffd27" width="220"/> | <img src="https://github.com/user-attachments/assets/3088fac7-fd84-453d-926c-89cf7a383c60" width="220"/> | <img src="https://github.com/user-attachments/assets/71e12062-a198-46b6-b724-ccf088356d28"  width="220" /> | <img src="https://github.com/user-attachments/assets/6abfbac5-d077-412d-ab3a-181c8cdf72fa" width="220"/> |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+* Flutter
+* Dart
+* Material Design
